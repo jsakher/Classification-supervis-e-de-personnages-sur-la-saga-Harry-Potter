@@ -1,0 +1,133 @@
+Character;Gender;House;Blood status;Loyalty;Skills
+Harry;Male;Gryffindor;Half-blood;Albus Dumbledore, Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Parseltongue, Defence Against the Dark Arts, Seeker
+Ron;Male;Gryffindor;Pure-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Wizard chess, Quidditch goalkeeping
+Hermione;Female;Gryffindor;Muggle-born;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Almost everything
+Dumbledore;Male;Gryffindor;Half-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Considered by many to be one of the most powerful wizards of his time
+Hagrid;Male;Gryffindor;Part-Human or Half-giant;Albus Dumbledore, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Resistant to stunning spells, above average strength, crossbowmanship
+Neville;Male;Gryffindor;Pure-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Herbology
+Fred;Male;Gryffindor;Pure-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Beater
+George;Male;Gryffindor;Pure-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Beater
+Ginny;Female;Gryffindor;Pure-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Chaser, Bat-Bogey hex
+Dean;Male;Gryffindor;Muggle-born;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Chaser
+Seamus;Male;Gryffindor;Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Pyrotechnics
+Lily J. Potter;Female;Gryffindor;Muggle-born;Order of the Phoenix;
+James Potter;Male;Gryffindor;Pure-blood;Order of the Phoenix;Animagus, Seeker
+Percy;Male;Gryffindor;Pure-blood;Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry, British Ministry of Magic;Intelligent, hard-working, model student
+Bill;Male;Gryffindor;Pure-blood;Order of the Phoenix;Gringotts Wizarding Bank, intelligent, past Hogwarts Head Boy
+Charlie;Male;Gryffindor;Pure-blood;Order of the Phoenix, Gringotts Wizarding Bank;Highly skilled dragon trainer, one-time Gryffindor Seeker
+Lee Jordan;Male;Gryffindor;Pure-blood or Half-blood;Dumbledore's Army, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Quidditch commentary, broadcasting
+Oliver;Male;Gryffindor;Pure-blood or Half-blood;Hogwarts School of Witchcraft and Wizardry;Quidditch Keeper, Captain of the Gryffindor Quidditch team
+Angelina Johnson;Female;Gryffindor;Unknown;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Chaser
+Katie Bell;Female;Gryffindor;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Chaser
+Alicia Spinnet;Female;Gryffindor;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Chaser
+Lavender Brown;Female;Gryffindor;Pure-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Divination
+Romilda Vane;Female;Gryffindor;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Spiking Chocolate Cauldrons with love potion
+Colin;Male;Gryffindor;Muggle-born;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Photography
+Cormac McLaggen;Male;Gryffindor;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Quidditch Keeper
+McGonagall;Female;Gryffindor;Half-blood;Albus Dumbledore, Order of the Phoenix, Hogwarts School of Witchcraft and Wizardry;Animagus
+Mrs. Weasley;Female;Gryffindor;Pure-blood;Order of the Phoenix;Household spells, healing magic
+Mr. Weasley;Male;Gryffindor;Pure-blood;Order of the Phoenix, British Ministry of Magic;Muggle world works
+Quirrell;Male;Ravenclaw;Half-blood;Lord Voldemort;Learned in the theory of Defensive Magic, less adept in the practise
+Cho Chang;Female;Ravenclaw;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Seeker
+Luna Lovegood;Female;Ravenclaw;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Spotting Nargles
+Gilderoy Lockhart;Male;Ravenclaw;Half-blood;;
+Flitwick;Male;Ravenclaw;Part-Goblin;;Charms
+Ollivander;Male;Ravenclaw;Half-blood;;An incomparable understanding of wandcraft
+Moaning Myrtle;Female;Ravenclaw;Muggle-born;;
+Padma Patil;Female;Ravenclaw;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Prefect
+Michael Corner;Male;Ravenclaw;Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Potions
+Marietta Edgecombe;Female;Ravenclaw;Pure-blood or Half-blood;;Covering up the spots that blight her face after betraying Dumbledore's Army
+Terry Boot;Male;Ravenclaw;Pure-blood or Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Potions, Charms
+Anthony Goldstein;Male;Ravenclaw;Half-blood;Dumbledore's Army, Hogwarts School of Witchcraft and Wizardry;Prefect
+Snape;Male;Slytherin;Half-blood;;potions, Occlumency
+Malfoy;Male;Slytherin;Pure-blood;;Prefect, Seeker
+Crabbe;Male;Slytherin;Pure-blood;;Beater
+Bellatrix Lestrange;Female;Slytherin;Pure-blood;Lord Voldemort, Death Eaters;duellist experienced Occlumens
+Dolores Jane Umbridge;Female;Slytherin;Half-blood;Ministry of Magic;Her punishment quill is of her own invention
+Horace Eugene Flaccus Slughorn;Male;Slytherin;Pure-blood or Half-blood;;Accomplished Occlumens, expert Potioneer, advanced self-transfiguration
+Lucius Malfoy;Male;Slytherin;Pure-blood;Lord Voldemort, Death Eaters;Skilled duellist and potioneer
+Narcissa Malfoy;Female;Slytherin;Pure-blood;Lord Voldemort, Death Eaters;
+Regulus Arcturus Black;Male;Slytherin;Pure-blood;;Seeker
+Blaise Zabini;Male;Slytherin;Pure-blood or Half-blood;;Chaser
+Tom Riddle;Male;Slytherin;Half-blood;;Dark Lord, Outstanding manipulation, Parseltongue, Heir of Slytherin, Dark magic, Inferi creation and control
+Theodore Nott;Male;Slytherin;Pure-blood;;
+Rodolphus Lestrange;Male;Slytherin;Pure-blood;Lord Voldemort, Death Eaters;
+Millicent Bulstrode;Female;Slytherin;Half-blood;;
+Graham Montague;Male;Slytherin;Pure-blood or Half-blood;;Quidditch captain, Chaser
+Bloody Baron;Male;Slytherin;Pure-blood or Half-blood;;Controlling Peeves
+Flint;Male;Slytherin;Pure-blood or Half-blood;;Chaser, Captain
+Penelope Clearwater;Female;Ravenclaw;Muggle-born or Half-blood;;Prefect
+Roger Davies;Male;Ravenclaw;;;Quidditch Captain, Chaser
+Marcus Belby;Male;Ravenclaw;Pure-blood or Half-blood;;
+Salazar Slytherin;Male;Slytherin;Pure-blood;;Accomplished Legilimens, Parselmouths
+Godric Gryffindor;Male;Gryffindor;Pure-blood or Half-blood;;The most accomplished duellist of his time
+Rowena Ravenclaw;Female;Ravenclaw;Pure-blood or Half-blood;;Extremely skilled witch, intelligence, wisdom
+Sir Nicholas;Male;Gryffindor;;;
+Cuthbert Binns;Male;Other;;;Boring a class with facts that might be interesting if anyone else was giving the lesson
+Barty Crouch Jr.;Male;Other;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Skilled potioneer
+Charity Burbage;Female;Other;Pure-blood or Half-blood;;Teaching and studying the Muggle world
+Firenze;Male;Other;;;
+Alecto Carrow;Female;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Spreading anti-Muggle propaganda
+Amycus Carrow;Male;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Cruciatus Curse
+Helga Hufflepuff;Female;Hufflepuff;Pure-blood or Half-blood;;Charms, Many traditional Hogwarts recipes originated with her
+Fat Friar;Male;Hufflepuff;;;Curing peasants of the pox
+Helena Ravenclaw;Female;Ravenclaw;Pure-blood or Half-blood;;
+Nymphadora Tonks;Female;Hufflepuff;Half-blood;Ministry of Magic, Order of the Phoenix;Talented Auror, Metamorphmagus
+Professor Sprout;Female;Hufflepuff;Pure-blood or Half-blood;;Herbology
+Newton Scamander;Male;Hufflepuff;Pure-blood or Half-blood;;Magizoology, Order of Merlin, Second Class
+Cedric Diggory;Male;Hufflepuff;Pure-blood;;Seeker
+Justin Finch-Fletchley;Male;Hufflepuff;Muggle-born;Dumbledore's Army;
+Zacharias Smith;Male;Hufflepuff;Pure-blood or Half-blood;Dumbledore's Army;Chaser
+Hannah Abbott;Female;Hufflepuff;Half-blood;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army
+Ernest Macmillan;Male;Hufflepuff;Pure-blood;Dumbledore's Army;Revising, being a Prefect, getting the wrong end of the stick
+Susan Bones;Female;Hufflepuff;Half-blood;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army
+Walden Macnair;Male;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Liaising with giants
+Augustus Rookwood;Male;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Spying for Lord Voldemort
+Antonin Dolohov;Male;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Duelling, Fought and killed Molly Weasley's brothers and Remus Lupin
+Corban Yaxley;Male;Slytherin;Pure-blood or Half-blood;Lord Voldemort, Death Eaters;Imperius curse, undercover work
+Igor Karkaroff;Male;Other;Pure-blood or Half-blood;;Skilled in the Dark Arts
+Kingsley Shacklebolt;Male;Other;Pure-blood;Order of the Phoenix;duellist, Auror
+Alastor Moody;Male;Other;Pure-blood;Order of the Phoenix;Auror, duellist, also skilled in non-verbal magic
+Alice Longbottom;Female;Other;Pure-blood;Original Order of the Phoenix;Auror
+Frank Longbottom;Male;Gryffindor;Pure-blood;Original Order of the Phoenix;Auror
+Rufus Scrimgeour;Male;Other;;Minister of Magic;Auror
+Fudge;Male;Other;Pure-blood or Half-blood;Minister of Magic;Turning a blind eye to the continuing threat of Dark Magic in the name of keeping up morale
+Barty Crouch Sr.;Male;Other;Pure-blood;Minister of Magic;Multilingual, able to fight the Imperius curse
+Amos Diggory;Male;Other;Pure-blood or Half-blood;Minister of Magic;Works for the DePartment for the Regulation and Control of Magical Creatures
+Dedalus Diggle;Male;Other;Pure-blood or Half-blood;Order of the Phoenix;An enthusiastic volunteer for the Order and a helpful escort for Harry and his relatives
+Elphias Doge;Male;Other;Pure-blood;Order of the Phoenix;Writing
+Fleur Isabelle Delacour;Female;Other;Quarter-Veela;Order of the Phoenix;Part Veela, and therefore possesses some of their magical powers, She was also selected to compete in the Triwizard Tournament
+Aberforth Dumbledore;Male;Other;Half-blood;Order of the Phoenix;Bartending, caring for Ariana
+Mundungus Fletcher;Male;Other;Half-blood;Order of the Phoenix;Gathering information for the Order, dealing in stolen cauldrons, 'acquiring' the odd Muggle car
+Sturgis Podmore;Male;Other;Pure-blood or Half-blood;Order of the Phoenix;Carrying out guard duty for the Order
+Hestia Jones;Female;Other;Pure-blood or Half-blood;Order of the Phoenix;Carrying out escort missions for the Order
+Marlene McKinnon;Female;Other;;Original Order of the Phoenix;
+Fabian Prewett;Male;Other;Pure-blood;Original Order of the Phoenix;Duelling
+Gideon Prewett;Male;Other;Pure-blood;Original Order of the Phoenix;Duelling
+Emmeline Vance;Female;Other;;Order of the Phoenix;
+Edgar Bones;Male;Hufflepuff;Pure-blood or Half-blood;Original Order of the Phoenix;Said to be a great wizard
+Dorcas Meadowes;Female;Other;;Original Order of the Phoenix;
+Benjy Fenwick;Male;Other;;Original Order of the Phoenix;
+Madame Olympe Maxime;Female;Other;Part-Human or Half-giant;;An excellent dancer, in the words of Dumbledore himself
+Gabrielle Delacour;Female;Other;Quarter-Veela;;Part Veela, and therefore may possess some of their magical powers
+Viktor Krum;Male;Other;Pure-blood or Half-blood;;Seeker
+Petunia;Female;Other;Muggle;;
+Uncle Vernon;Male;Other;Muggle;;Schmoozing clients, pretending magic doesn't exist
+Dudley;Male;Other;Muggle;;
+Dennis Creevey;Male;Gryffindor;Muggle-born;Dumbledore's Army;
+Albus Severus Potter;Male;Slytherin;Half-blood;;
+Scorpius Hyperion Malfoy;Male;Slytherin;Pure-blood;;
+Edward Remus Lupin;Male;Hufflepuff;Half-blood;;
+James Sirius Potter;Male;Gryffindor;Half-blood;;
+Rose Granger-Weasley;Female;Gryffindor;Half-blood;;Chaser
+Filch;Male;Other;Squib;Hogwarts School of Witchcraft and Wizardry;Sniffing out mischief
+Madam Pomfrey;Female;Other;Pure-blood or Half-blood;Hogwarts School of Witchcraft and Wizardry;Skilled medical healer
+Rolanda Hooch;Female;Other;;Hogwarts School of Witchcraft and Wizardry;Teaching, flying, refereeing Quidditch matches
+Irma Pince;Female;Other;;Hogwarts School of Witchcraft and Wizardry;
+Aurora Sinistra;Female;Other;Pure-blood or Half-blood;Hogwarts School of Witchcraft and Wizardry;
+Septima Vector;Female;Other;;Hogwarts School of Witchcraft and Wizardry;
+Wilhelmina Grubbly-Plank;Female;Other;;Hogwarts School of Witchcraft and Wizardry;
+Fenrir Greyback;Male;Other;;Lord Voldemort, Death Eaters;Physical combat
+Gellert Grindelwald;Male;Other;Pure-blood or Half-blood;Gellert Grindelwald's Acolytes;Duelling
+Dobby;Male;Other;;;
+Kreacher;Male;Other;;;

@@ -1,0 +1,23 @@
+# tex compilation
+*.xml
+*.gz
+*.log
+*.fls
+*.fdb_latexmk
+*.blg
+*.bcf
+*.bbl
+*.aux
+*.toc
+*.out
+*.pdf
+*.maf
+*.mtc
+*.mtc0
+
+# DS_Store
+*.DS_Store
+
+Vscode
+*.vscode
+Notebook/.ipynb_checkpoints/statistical_methods-checkpoint.ipynb

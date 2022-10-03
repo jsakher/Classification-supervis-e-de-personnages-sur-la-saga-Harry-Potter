@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage[svgnames,dvipsnames,x11names]{xcolor}
+%\usepackage{graphicx}
+\usepackage{vmargin}
+\usepackage{sectsty}
+
+\chapterfont{\color{SteelBlue}}
+\sectionfont{\color{SteelBlue}}
+\subsectionfont{\color{IndianRed1}}
+\setmarginsrb{2.5cm}{2.5cm}{2.5cm}{1.5cm}{0.5cm}{0.5cm}{0.5cm}{0.5cm}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%
+\section*{Classification supervisée de personnages sur données de films/séries} \vspace{.5cm}
+%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{Encadrant.es} : Florent.bascou@umontpellier.fr et Tiffany.cherchi@umontpellier.fr \\
+
+De nombreuses sagas de films ou séries (par exemple : Game of Thrones, Harry Potter, Star Wars, etc) font intervenir un grand nombre de personnages pouvant être distingués par leur appartenance à un groupe (e.g. GoT: familles en concurrence pour le trône, HP: 4 maisons de Poudlard, SW : Rebelles, Jedi, Stormtrooper). Une intuition est que ces appartenances peuvent être prédites à partir des dialogues des personnages, en utilisant des outils de classification supervisée. \\
+
+\textbf{Mots clés} : \textit{classification, analyse de texte, python (Scikit-learn, Matplotlib, Pandas, Numpy, ...)}.\vspace{.5cm}
+
+
+
+\subsection*{Traitement et visualisation de données}
+
+    Vous travaillerez sur les données de votre choix (Got, HP, SW ou autres si disponibles).
+    L'idée du projet est de prendre en main des données issues de films qui auront pour variables : les personnages et leur dialogues. A partir de ces données, on peut créer des variables additionnelles telles que le nombre de mots dits par personnages, la longueur moyenne de leurs interventions, les mots les plus souvent dits (champs lexicaux) du film ou encore des mesures d'intéractions entre les personnages. \\
+
+    Une première étape serait de choisir et représenter de tels indicateurs statistiques. \\
+    % qui influencent le nombre d'intervention et le temps de parole des personnages. En particulier,  vous devrez analyser les données textuelles de dialogues pour créer certains de ces indicateurs.
+
+    NB : selon le jeu de données choisi, d'autres variables sont disponibles (générales : genre, âge ou propres à la saga : royaume / famille / planète /espèce /maison poudlard, etc...)
+
+\subsection*{Choix de modèles}
+
+    Vous choisirez une ou des méthodes d'apprentissage statistique, afin de répondre à la problématique du projet (e.g. : Régression Logistique, Analyse Discriminante, Arbre de décision / Forêts aléatoire, SVM). Vous justifierez le choix des méthodes sélectionnées, et en détaillerez la comparaison. Un des critères de choix pourra être l'interprétabilité du modèle pour mettre en évidence les variables les plus prédictives.
+
+\subsection*{Prédiction}
+
+    Enfin, à partir des variables crées, vous essayerez de prédire l'appartenance d'un nouveau personnage de la saga  (HP : maison de Sirius Black ou Dolores Ombrage, SW: camp de Rey ou  Kylo Ren, etc) et vous interpréterez ce résultat.
+
+\end{document}

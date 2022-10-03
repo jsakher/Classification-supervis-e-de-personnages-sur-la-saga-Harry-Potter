@@ -1,0 +1,9 @@
+Character;House;Gender;Half-blood;Muggle;Muggle-born;Muggle-born or Half-blood;Part-Goblin;Part-Human or Half-giant;Pure-blood;Pure-blood or Half-blood;Quarter-Veela;Squib;Unknown;professor;sir;hogwarts;slytherin;school;year;gryffindor;kill;chamber;wizard;Word freq(%)
+Sirius;Gryffindor;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;0;4;0;0;5.262591476538958
+Lupin;Gryffindor;0;1;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;15.400344382264313
+Pettigrew;Gryffindor;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1.1945759793370643
+Parvati Patil;Gryffindor;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0.01076194575979337
+Trelawney;Ravenclaw;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;3.1532501076194577
+Goyle;Slytherin;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.11838140335772708
+Pansy Parkinson;Slytherin;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0.05380972879896685
+Aunt Marge;Other;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2.4860094705122684
